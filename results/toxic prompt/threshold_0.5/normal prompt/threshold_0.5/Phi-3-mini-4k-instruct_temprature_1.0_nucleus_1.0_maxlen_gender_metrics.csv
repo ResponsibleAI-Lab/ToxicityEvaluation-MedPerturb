@@ -1,0 +1,4 @@
+Gender,Metric,Mean,CI_low,CI_high
+unknown,EMT,0.13353730019230559,0.12952236017746782,0.13736135380394124
+unknown,Toxicity Fraction,0.0,0.0,0.0
+unknown,EPBG,0.0,0.0,0.0

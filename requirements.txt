@@ -1,0 +1,14 @@
+# Dependency ranges for the packaged workflow; not the original experiment lockfile.
+numpy>=1.24,<3
+pandas>=2,<3
+torch>=2.2,<3
+transformers>=4.43,<5
+accelerate>=0.33,<2
+google-api-python-client>=2,<3
+httplib2>=0.22,<1
+google-genai>=1,<2
+pydantic>=2,<3
+tqdm>=4.66,<5
+PyYAML>=6,<7
+matplotlib>=3.8,<4
+seaborn>=0.13,<1

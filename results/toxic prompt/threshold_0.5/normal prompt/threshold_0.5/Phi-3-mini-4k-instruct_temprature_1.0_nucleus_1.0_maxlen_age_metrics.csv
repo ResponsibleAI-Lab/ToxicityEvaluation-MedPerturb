@@ -1,0 +1,4 @@
+Age,Metric,Mean,CI_low,CI_high
+unknown,EMT,0.133441874459498,0.12924101455817813,0.13749137666888753
+unknown,Toxicity Fraction,0.0,0.0,0.0
+unknown,EPBG,0.0,0.0,0.0

@@ -1,0 +1,34 @@
+[
+  {
+    "clinical_context": "Synthetic case A",
+    "gender": "female",
+    "age": "30",
+    "race": "Unknown",
+    "completions": [
+      {
+        "text": "Synthetic response A1",
+        "toxicity_score": 0.1
+      },
+      {
+        "text": "Synthetic response A2",
+        "toxicity_score": 0.8
+      }
+    ]
+  },
+  {
+    "clinical_context": "Synthetic case B",
+    "gender": "female",
+    "age": "30",
+    "race": "Unknown",
+    "completions": [
+      {
+        "text": "Synthetic response B1",
+        "toxicity_score": 0.2
+      },
+      {
+        "text": "",
+        "toxicity_score": null
+      }
+    ]
+  }
+]

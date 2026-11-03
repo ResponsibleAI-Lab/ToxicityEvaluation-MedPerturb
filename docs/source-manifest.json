@@ -1,0 +1,117 @@
+[
+  {
+    "source": "Toxicity-Fairness-Metrics/calculate_toxicity.py",
+    "destination": "legacy/calculate_toxicity.py",
+    "original_sha256": "7214e3e422fa4bc8b70d866d0fac22e9d460a8977de30c807b96b12827294907"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/check.py",
+    "destination": "legacy/check.py",
+    "original_sha256": "34eda1930b02ff13d45960f2cc75fd57b3a8e858b088dfb62fb20d5f3c0ae8bf"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/check_sim.py",
+    "destination": "legacy/check_sim.py",
+    "original_sha256": "70ae6c22fc1515f5809bd6bc1737403d267553ebecdd96cdf38c6c704612c334"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/compare_age.py",
+    "destination": "legacy/compare_age.py",
+    "original_sha256": "23cbf172ae3e624a82a61a04ab78f7151a96b5a1b4d42262076e228dd08649ae"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/compare_gender.py",
+    "destination": "legacy/compare_gender.py",
+    "original_sha256": "9f637802d3a7dc9f819eb56c46be06eb4280eeb2047209d2577769383b57af7d"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/compare_race.py",
+    "destination": "legacy/compare_race.py",
+    "original_sha256": "63ad14ce801cef3bc186ad0b5b9eec35985778e448c2efa081eaee1b615f0983"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/dataloader.py",
+    "destination": "legacy/dataloader.py",
+    "original_sha256": "7d381592cecd3da186739d4534fbdc2ceff8da495e5ad59579d394e653529637"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/gemma.py",
+    "destination": "legacy/gemma.py",
+    "original_sha256": "d91d5a7c743a3de6ef049551c6477c894a0962d4352e79153f07b701fdb7877d"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/generation_model.py",
+    "destination": "legacy/generation_model.py",
+    "original_sha256": "c95c6ac06c955c808aa383bf5ed4853ad93c25ad8491ed6c1cde19ce57ab24fc"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/generation_model_deepspeed.py",
+    "destination": "legacy/generation_model_deepspeed.py",
+    "original_sha256": "2730ed9b908afcbbf36cdf02bb69a90f135d2da6cfd013cb0f57e0c18dcafacd"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/get_sample_info.py",
+    "destination": "legacy/get_sample_info.py",
+    "original_sha256": "d2a69167ac0248a5eb20399e07f09c74cf9746790df4ac6c21506e8bd745ba71"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/merge_demographic.py",
+    "destination": "legacy/merge_demographic.py",
+    "original_sha256": "21fc4abe308587fa6faec58f7e02f2586f3e493737b7f6a2fda7465dbacce8db"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/perspective.py",
+    "destination": "legacy/perspective.py",
+    "original_sha256": "fd2307ea8e2c427551aae29560d172f9a1530f492e714d044e0935943f4c255e"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/plot_age_tox.py",
+    "destination": "legacy/plot_age_tox.py",
+    "original_sha256": "9b9bbed6bc5876b402d4be512dae20d82086e06191560133de44559b2920879a"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/plot_gender_tox.py",
+    "destination": "legacy/plot_gender_tox.py",
+    "original_sha256": "0ed339fd76bfd2191a544489e2ea85e5171d6286f8101159a4af58f60ee61da9"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/plot_race_tox.py",
+    "destination": "legacy/plot_race_tox.py",
+    "original_sha256": "b1df0bfd1b860eb4afbb55a9502a0c3ff7067a0adfa39f370d5fc12480b56494"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/race_means.py",
+    "destination": "legacy/race_means.py",
+    "original_sha256": "b88516b2b523ae372f709eeeaf5a2003903323e4d2f1940b031d406ea4a95f3d"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/resources.py",
+    "destination": "legacy/resources.py",
+    "original_sha256": "5ea315075198ea979ebed34b9f8769c6f9ec6ff9c82318a61d815c367233b23f"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/run_generation_model.py",
+    "destination": "legacy/run_generation_model.py",
+    "original_sha256": "4b2efb0ab7a0f0fe1c5e99d660e303625133adab79923dd8dc91f1585a53491d"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/sampling_method.py",
+    "destination": "legacy/sampling_method.py",
+    "original_sha256": "64c3c5641c2579ab038988d9f11697fb09e86a14d0bf8fe2122660e542bbdc05"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/toxicity_calculation.py",
+    "destination": "legacy/toxicity_calculation.py",
+    "original_sha256": "6b29180fa89f2b02489c64bf3074b503512fdb79159d4eee7926800ab29c7778"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/toxicity_calculation2.py",
+    "destination": "legacy/toxicity_calculation2.py",
+    "original_sha256": "abd3dd36da9f13945a9e3c695d8bcda20e0451c749c33a6739ad7945915361da"
+  },
+  {
+    "source": "Toxicity-Fairness-Metrics/toxicity_calculation3.py",
+    "destination": "legacy/toxicity_calculation3.py",
+    "original_sha256": "7bf7b34db74b319b3a6bd9d7d898195118994b43a2450e8d5b63b9d71411d716"
+  }
+]

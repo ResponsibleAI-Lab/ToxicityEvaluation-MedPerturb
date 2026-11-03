@@ -1,0 +1,4 @@
+Race,Metric,Mean,CI_low,CI_high
+unknown,EMT,0.13355951435634783,0.1295813352802041,0.13715705130446776
+unknown,Toxicity Fraction,0.0,0.0,0.0
+unknown,EPBG,0.0,0.0,0.0

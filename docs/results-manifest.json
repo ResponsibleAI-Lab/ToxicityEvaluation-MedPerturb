@@ -1,0 +1,758 @@
+[
+  {
+    "path": "results/debias prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "92cbcd4f10e67e09eac0aec417903fcf64b467e8f108909e695eb6a808d7483b"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "f66e152653847935ba515911b9f01e1f88527013df340e707864d618ff1910cf"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "010cb398b5e77a9da8e3dfcbecd3b6c942a28d80bfd6e227061cead8f03c5ff9"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "40c662d44c6ef449d02e7bf277d93daed0ca8c247a8718e87629ab4123cec7ab"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "32daa4909f50b9b1c56bf23da0da3a2f89a5867f7ee46541243d503b4e98623d"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "52b3558dd4c7a98fb015f2e0b1b51deeea56eae81a8b7f48f522669418e8994e"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "7a51ff409ad439d96c575b969ab94716525e133056e3d403229a74b31c1260e5"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "6ed0498855488557c1d110efc04c136350bcdad6c263c7c87c7a0c7cec90b08d"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "5b72a713f3d48f772dc90672460454a1e774210d0e05f9d8099ddf5b9f1860de"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "7b9b634a3bfee6a666bf00c2931c9c53279d75675fef223d66a50e2ad92e2508"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "c736366c8f7041990bcdc4611e5f41018fa9d3479cf8700df1ed52888d00f111"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "8928f4150a736034ef3134981fdd2cde5255b50dfc37e0599b0becc295a06cb8"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "ec8374632cd5764c6c47f63b01ec57f91c2c7988f43b59361b79cf3b12065ff9"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "38cf34f47ef537e9cc189c983ede49fc2378a2ddde2add5b3c086d88dfd31864"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "969678b3a922d9d08a1519bf34e63fff46f70c95ac177258a15518b9aa4889c4"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "02629e5000ac1c37b1266623645f36aed70823214216ad448a4499ba04678f4f"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "1314acfe1f806775005590b9441b70dccd716d80a0140355644cfb99a93c19db"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "989b811bd1446710a33e0870ffa50a10fa044a847a52e7a50795cec14d591bd7"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "05a052f0685f6168dbd89d5d8648ac64ecf2167a62dc3d35bdba760303222ecf"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "d927ec6040b24f55fc87b4301d47ad6326b63003516c0070641f727e58cc1e20"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "8ef10596babca63434ca1b3a5bca91c1d4f0724d804d5df065991560f07d46c6"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "7867493844fb831b34d18be4cbcfd8d6a0f74377b31bb59bd2efbb748e0ecd9f"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "fd45c1a06da418268053b16ecf50ee440387fecde5c5e2f13767c27f14b5616b"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "ce87919056403b15e6170e0bf72dc13367e35032c0d6bd020e1f475d92074988"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "eee60063dc15a3bd826a87fb641eff0e529d3af24db9c1c850e6f06b15a8d375"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "9f14becd975a57cceb698491d3b17e972747263db8e316dc99cc9285099741f5"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "20af0184be7baa464d673f57049cc1e70b76e88e175eafa8efdded72ce2b9b4f"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "86bdf8f568ea26aeabb7eec4656eddc21b57e3569c03aad5ef012e815cde0865"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "3e088dc0cce814856d63850912187ca61d86b5697f1584a576c7e785ced30be8"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "78cab1e8783972410a6f6490c752feec1747b6e2cb177e6a7fc63ccc054f975b"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "fb683c7060c70c94b70bf3a34cba8aed1da3f0465f39bebb3e434d9221eb439d"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "2a2d91b31045cbebce4258e25b497183f8fb3287f32d118cdf82b3e6564cb94e"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "369c2f3bd95c758d87809aeee1ad6b63554292f0b15d357932af27396dae04a9"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "196d22f4a3df1b3c50bd988c12582e9a5e1c45c6e6049a942c6565580c8fe205"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "3fad0b390ac70e2a0225724a5ff4a4a2bdd1175a5f81eb93efb74a93c723ff1d"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "fb03bfab3c296b7b0152e9ee0948570250606cf05c6d0d6f37ae54c769a6f7b1"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "099049317e6d757f8dfbb9bc1e5688b5125d91eddaeb90e83442bfa964863956"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "829af90a9cb99596fce5d686f0f7b460bfe5d110a3b38c9aa42ff37a341b11e5"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "13c80fb4017dd60a6cf7b9d63286b57891de19da2147b1f7727b6753ee3dd662"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "a45fcd931085cf8b925a4f9430c73d2520ae811c0babab7b8ef2ee85e9b3a42a"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "f3215a93cc990e8907dba8f2358089900b60e5417a8e80908480fc2cf6951dcf"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "dd446a0173f182d4157e9d2de6354d83d603be3cc981c4370f8fc8bb1122ae1d"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "19f309a7ce8f155a4c3d0526871a874bd322522c4df49184c58c7ef37b9056e0"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "5e4bbc0137a60503b79284e11302da125dfb87e969d90ba2783fff0ba2a59d3d"
+  },
+  {
+    "path": "results/debias prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "75bc086970e6485391f50ffcc1e7f082876d7a1e16a68821d9cb7283d1448e4c"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "07b1f3fd3f4b5ac0377ed24fb563a346e6682bd2f8a9a544f94ddc0b3c3a04a6"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "9488aa0471967823662cfa16cbc318abe245682800ae91dfaf248574f956cbbb"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "ae2ee1352578e3d019b3be954b7241fda436fe260d552313ca6b2b87390c5cb1"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "18ea0fff4f72bc317bc594daa3047a67eee42e2e90f28f3fa74e6c80ce53a8fb"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "45001339ecb70e50453e0907c168e6227728e6d7c9891dfa8c027a7728f234f9"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "111cd80790ba307f7a359a24c6f095e82934ccd9453fe8963e9797e352eee0df"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "c799b72aa8d8f625bf1603e7f7c294104ce31d4049bf6212df404dba1ed12a32"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "e0ca072556b14000ad4eaa0b21b784087e4547da4b5e1b7e6c3daa1ed80cf804"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "c3caed4a0215b9307d564cedd7c4563885f3bad36dfec9536123db1e6c425823"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "0ce68406dc84c1033288a4897bf84ad915485545201b7c9594c55daaf3a18bab"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "f12d293e1064ec77258ec59d1bcf84a799f0b5ca045dc522781d5e5a70c53d5d"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "dba317711269aed8dcb6578dc798a6da2bbec8c1e2648c5e623a6785443c66ee"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "ee56cd1d23bb2870326f1cc6ffef72ab158b52718a59fd10996ae4aa628dad5b"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "843fa14950bed0295dabc3db142aa58fc87bd1a852e710144a06375be78f1a64"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "7e8e38e50de7b9f0c573d6b26cda3363f38b60bbee9525dcd199714292473dbe"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "a5cef64804d9dc09d017456da12d7134183b84dc08f29c019ae27e0bce090c10"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "a5bb2c6fb277486b9a4c04b9f98a752c5cc46d2fc335a09e9abdf74379ae2f7f"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "c09e406e8ce797152b0f1f137d974b003e7491459a3e14cca37655357753530c"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "ca657e266c3683c4884c58da5ed89fc1b7ac4f476960e6e08ce870f0ef3fd52c"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "56e6e0945fadeb37347ead634c662f077474da312f1c39a88e8152580e00f4d7"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "e063b73e141ed22f1ae73ee8faa142c8776d80a80ec7757d99c34b9c6faf2ce5"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "46e1843c943bf81d6de13ff25248fabb9920927a737cbc1328b274842eb5d9fc"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "2617ca5c282e4d48cbc1763b2df447c8c853e00b201fa88a519f26d4372a8f41"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "e1407dd04bd402762ce66bb7710aa20cb14e2be4f035c0d2f9d090b3c7d90735"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "4e25e5f4a7b6a47be2dd32c34a881ab721b7d6e11440aaa857e11f87dffcc37e"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "7a25c802f59801a3ed00fb22660f6dec38fa945bba417ff3e617731bb0492312"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "2843abb2529e1220df66689ba28bff4195301c726dac17813d502925a2eb1104"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "0e6590d88a0e44c84d99aae26fa7ae0e37413dca292821bd9218fb5fca1bf808"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "fb9d9fa47212aec7899fcb5e668e012a0a7583d02cf9e30d0fe448394de3fc8f"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "a129e6e53a257fc95664abf90d614629da29b995131d614cce146125989ad4c2"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "80b7cc2a7a0677389dd92d51719e0a550d8edb0f617613f5c6907822b40bd43d"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "d6edadfbbb2009bfd86c95dd5b9c40041a6bc52d583367041afd374153f587b5"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "14a1f5b5297dbe56261333e7c5db22f69204118aec17f8bd06793487bfdeb6b5"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "ac3cbad8f822d607f9d403bd289c4de643e6121ec3dde9565427ca82cf74af02"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "248b0589c793772df2841a13ee7d5839ff2070a18658cca98934ac86fb9e348e"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "e92f19e793fdfc0730c925cb36ab7f7007bd6af7214ce3db994b68567679e231"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "a55d6874b50a78b73acaeaa143e04dfe1f4f15fb1d93be04327440d6488ae9cb"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "69ccf5d45a8afc719ce1eb1997c416f268b62a46b6af343485607c6655f7e15a"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "8526fa5bfcbf977c2922192c4714ee4dcb74d8e0e1a61e1523e1b72c88fbdfed"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "4e37de503c17eba25e9c858e981af9b1068a826e743b710277ee500f50928768"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "7f38907ddc133b6b8f031b9b47ad480448626afbf11a5259dc302da39510aa7f"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "2ed084102b5e2a786f05d7e21d198ab9dbaf04921dc5402d7f2b59ba8d3b8b96"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "3c3dc881e9ac1010af39c3470ca90eb38170dbccb91517d4648be3a5e26f9890"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "793a2e5a06b29f5b0c38e89887b71b8f37736576036db805b263087c8e95ceb0"
+  },
+  {
+    "path": "results/normal prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "aaa0c5df7bddff7d17fa6479d946f37879a9fa16ac42c0c0912ada0b13f547c4"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "48f3743a482a7ac55d7b916c37b1e38e37aace62098b0386a99bc91424032837"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "7bac42ff270e18a868c690094300393d9be6948d37146ef5a6f47bd1ec098531"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "60cdcf3d5f97dd843a571ee266fb712632f02788721137db3c1f86f41dfb2103"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "aa12113f8b741d23592a3eddd01909b69cbe34c83406e1df0b0567d9079dea80"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "693ef0065269faa148af04d01d4500ad9d81cb41f66226cdb4d83c332caf437b"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "cb0c43c7acb1eec408011ef17cd1c014432ad19852e3a586112e46949b046a42"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "f48b492eb5fb13b44970748f8bba911500cb13f9717309a5efe2314f30cce7c7"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "fc933e85ea64f1684155440c489358615dfb17e69753560d8bb491c89ebf5e3d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "4a4bf05dedb5d23b064b5a8cfc732c9d1bbc65714387a7fb6734f0efb51194d4"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "d79f4dd9807a7303b08b581d5e7d3a23d1ea756ec9837c8c70729b331341bf7d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "2a787a04a3406612f8fd7c435355c109c8a6093075cb8c6b077f2e2923384dda"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "3679aff734bfbd1010ee8e40998b7d046d2c4d15ab8c978c5e737ae276c5c0f0"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "7f836c7d4952b1547c47de76db28ed60da304ff3538ccd6949c347a290d071c5"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "47ef332e29c27c0a93d36a5aa6dbb7e349681e7c852fa8fa57d1cc7e2dab44bf"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "1cf646a239e28f117329a8a4711cddd47ff43a1a96174eb4e3604433a173aca9"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "6bbf9345acfb4743679cc68123e84a3c384b94235f70c45575d8b02d1b765ba5"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "ab38e3a0afa1eb541ac1e4947d5628e3c7da5f8be3891a2b8179af5a9ab05d9e"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "2554060682a98614c6345613c9628256042304e4ed6249027ccaa30bd5173de4"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "e6b33c38f10c6b77c994083a8f557bc25bdd45910f85e10dc3273fb441f7dd8a"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "dcd1acb277a72b825007380f2ee39670bccf35081a6737e6eef6f73dedfc53b9"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "6cb64bb1f4c467c839b7ecdc65d6b7623b6aa7882ea7b59b18f24ef377313328"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "070b26f2916b8d00ca4d987d3f5f7ba4ca32efbfa04dc528d9955c4052624e63"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "c1c9475d44a55060e76d60aca4e71134b6d95028447ab9504c37a0310d228985"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "a2830ae09f1063121e084639f94433fd0caae7ac451f0b584b5f37dce0be784f"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "171c67c350e4f3095f3f0f70c1a91ef634749582cbff3565cdd40a3bff641cad"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "230ff39495e4702f417b6a9f7edd280830d5c6c5beb1b050d80e9ddc55f7342e"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "75d43c70611f574de1a07f0aa231934b9aeffcfaf3a9608c9685680121c8a719"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_age_metrics.csv",
+    "sha256": "77ceab7b2f79947e7f2f6ffe11de03d39f929087f71a683dca3db22d9130b274"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_gender_metrics.csv",
+    "sha256": "3dbefe74fb0577e36b7609608a8781ea71d5f6492e5191a048191c42c5efba67"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_300_intrasentence_predictions_race_metrics.csv",
+    "sha256": "9c0c364ebb6302afbabde465c0977fcb2a2c8152b40c307230a9d55e6e7d214a"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "92e65d422ac122ad2993b8b84dbce4dea74a56fd501138b1180ac8ac3a919997"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "35d23c256e0ff617f1dafeb5ee624e349fffdcc2fd5bd330e1c5d80869601371"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "6d70a441ea98ea61d09afcddd12e28a23919cf04ee5f0fbba92732993ac30438"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "8359a41d40f570c36f9453f4804f460475f39bedc2106eaa7311ec1788f2db5f"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "6885d11c41537ffb09549973c54dc803fcdc17d867a421ecfa71acdf19e8d96d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "12d35df69bcd71b9bf490a219cc133609e729afe06435acf2a025ae32421abf9"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "7f22d2d49cae1b73788547a913a78392d3abf11ab6450d4a8e1ed1a089844478"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "893ec2add2ef8b30f334ab970e6c419e877d830e4be2659069e74a891937dcd3"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "d4aec5e269449bf7530f6e5a4dfd32061fda1fc3073f28a14cf64365b43f44ce"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "40768c86b7a403b538be369fe8b9972330156f744bcc686f28c6d07b3d462678"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "bf311315a7f29db9e65cc87493b27122573e81536bfba045ea30fc86b5de0e40"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "47938ac9c9b2064edd3beb2d4da5dab018dd0474811a4d2c9f3754d6c16f9d7e"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "4b313271b261d0d3d9b7f0e24703af2fcc33fcabeb4634068fcf6da3863ebbf9"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "2c2a2e4d108808e6b4f7cab46b295e12bddf9d3a07c94742841c21807fe2d2e2"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "c8f6e1cc6bcf01f54cd0e2a53bbcf7f5ba19e17b1f8d28a1718f1f3fc9621ded"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "3514a3817dfab72277108f76106564a95f935b5e517c5b18fd5779755923109b"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "a531141909851c5604b2627761b78c0509fbc29be460fd3eaf672e5eecdd14c8"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "37e8e98f3c5b70269884612b99e7b93bb997c4e8d9c320dad944f6037dcd85d4"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "daeeadca5c420dc54c621aecf3eb6ee517391ddb20f002c51dc1e4e75da50ce4"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "e4df4176a6b92313bca481d56c25c80a8199e1a14afb08b172b56345de103377"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "f50502fa696573002ea9203e753c13ceecee322aaee4b161755cb0a934271785"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "b6c22385450b89219a0f2a7b0ca7900604a494936515302ef4b05766ffeeffdc"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "38858746b317ca9e7337b74d02e5ed5fb2fca1741119e1eb6ddefefbceab66c9"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "b1af253e9c412449a67b8d0be139bf480f60107dad0a866990d8110c87e6a004"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "cf19162807339ae5d92c51bbb597b5ae3dc6622f088932b288a2ee871eb35219"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "5ea8e9ae24bc21967355086fe30068468ad5557c3eef68a0981d32e92e686845"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "b6742562015009887f20033a1be09eecb02f3657e0891eab6aed62e057fe0d9d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "82d139707b1d560ef49e377765aba007b843ad62d8f46f18236ee20cc1ebf852"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "862297e32cf8a49968b0a1cef38746d192d06623a85719bcaf8e3f8a9fb3d2f4"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.1/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "90591ab12854b95820c8ee5e6f1b65e7bb3131c0d4af21cae8480f9afea2c27d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "ad55146b370982bd348767ee07d18dcf5b42cae5ece1d3d81e9af6efaa5c28c3"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "4de0e0a4a3a6d0d315623d8fcf96c566370dfc462817f99ade01344b44cfd6e6"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "d71c7bf227f46f3423f4bc6ce124a47b41612a9057afaff7638a85a41a902c41"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "bf4a4f8068777db640eb273ce96c20d16a1d084988055954805c65ec8bca9069"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "bfe52936d77dde1a53c47b5df2e6adea59c6b102ae7095789aae49aea82983a2"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "3f3728ec30f7ed285a36ed0d1ee2fd7445d728cb4079c21e40e75d6de2a27c48"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "4fb90f96ffabb90a3faec48b3cff6511be53f1504b51308d01e43d8bbb2a878d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "1dace4e17f409943cc5eaf3138c00c556f11c170a950abe009f55e7dd01c99de"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "7bb8e3b0455581243df5e10357798c02242048ceeb937dde91248e7eb187edad"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "71ca382f00072647047c30874a0b5a8678fe3a8c4df2a7125d9473b7c4b0f357"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "2c67533225a5365e932e18dfdca48d1f198c427482b772c93216e7b0986054eb"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "cf155efb59ad76bc902988fe19a242100b37e872a1a383bf27b18667a4627e92"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "bf94ce3017fc2a63e771178c0b193f8320d6cda2091289ed8c98ea14ee6aa5c2"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "57f7d0109b0eff0ceb0a27d35e3634f03d025b4787832d743e01e34305cf5633"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "8b5a5baea1e45269b93c25a844cfb52cdbf69510f8183e8383766910ad41bbe2"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "d72be50eb51d5421c6ff401d86fa9414104fcd16513f6fcab9c3169b4a2900b5"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "863a2cc4c265985be058414d024901afbd14c5c5d0b9fb8983ae02d44ecea895"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.2/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "f6275eb19f6015d5d6dfc0313ce47db4f7b9049f4285cfcfe44577eae2a9bc2d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "5010fbe9dae3bf075ddd73e3c15862a5ab3d908949c13d6569972b7074dccb0c"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "813460a1ebdbf66818ab5233d3d21e549e23e77439ee99cd83eba61b1d430084"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Llama-3.1-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "eb3dd6204d7971f92b9d998e50319ae3a3e0349a86f6ed17d0c8877d054514ce"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "57b62ed8e393f66bdf34694a6402f6d1e36a2f489d3f0daaeab4accc6e445b83"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "f6bf7affe1864bc746bf461a205a0814f5d8fc2b6cc01b8555c6b115d47c4d8f"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Meta-Llama-3-8B-Instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "f66b51ff466e11ff6ef1fed121aee51a567531e95221efbd3101c1a40d145215"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "6cbfd50072c7bf9dff2c0ad1f7fb95353a792e66da02ed59153ad06f56823acc"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "93841c740e4ae9b750be4043172c7fece143e080e4fe6cb3cceb524d742a03cc"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Mistral-7B-Instruct-v0.3_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "0ca9bce80d02155abd81ec79c5eb3b70236ea75f1fff18e041cf1f12a70e6f96"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "82e250c37e2b88acfbc4836910ba8be3f6d7bc52192e79aa101b695e5fc171ec"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "785c9b89530b337b5ddd2c2dd47930df001b24db8bea16855b69961e7dc9bec5"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/Phi-3-mini-4k-instruct_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "4c448a575dc9704188bc5d182549c64c9ffbc717a5122431a8b366a8096638d2"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "8b90e4175492677dd43447f5f449d2d1b0c9be8af3632965078e1136f1f77dea"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "ac4870d786577c02951276098f91604b6cab890871f1fcae010de72944004608"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/gemma-2-2b-it_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "903baf0c60dc4b9f43596ef3f689ea7bbfb82302a28a8404e15e8d8b31620622"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "4d387ae4794578ad345106089312b1655411bf30c1e61286ccb6c942f969d01e"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "64e8e58594335837517158104ef24f59a5f093ad9a197c99737a64c1cd0579ea"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/normal prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "a3774ebf7f5bce95d084f93346bbf442f148f0cb6d9820888da28eaa3dc9d690"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_age_metrics.csv",
+    "sha256": "9d7e98a74879c83c42e130f7cc89af3248fc5b96ac92e0665a9eda3129c6712d"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_gender_metrics.csv",
+    "sha256": "6a1e36178e53bd578e6b839d5cab592e8fa4d0d41f67053a81fa5b1b88488414"
+  },
+  {
+    "path": "results/toxic prompt/threshold_0.5/phi-2_temprature_1.0_nucleus_1.0_maxlen_race_metrics.csv",
+    "sha256": "f10e9c555d4c3f7d876df8f9cd93dfe517aedbb73b42385df0b490349e5bd611"
+  }
+]
